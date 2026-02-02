@@ -52,4 +52,3 @@ The solution is organized into three parts:
 - **Clear citations**
 - **Exact refusal message when unsupported**
 
-Refusal message used:
